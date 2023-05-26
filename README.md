@@ -17,3 +17,9 @@ I store them here to remember these moments forever.
 <p align="center">
   <img alt="halva-1" src="./halva/IMG_20230415_193743_454.jpg" height="500px">
 </p>
+
+## Nodel
+
+<p align="center">
+  <img alt="nodel-1" src="./nodel/photo_2023-05-26_16-47-37.jpg">
+</p>
