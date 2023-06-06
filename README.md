@@ -23,3 +23,9 @@ I store them here to remember these moments forever.
 <p align="center">
   <img alt="nodel-1" src="./nodel/photo_2023-05-26_16-47-37.jpg">
 </p>
+
+## Kung-fu panda food
+
+<p align="center">
+  <img alt="kung-fu-panda-food-1" src="./kung-fu-panda-food/IMG_20230606_203714_634.jpg">
+</p>
